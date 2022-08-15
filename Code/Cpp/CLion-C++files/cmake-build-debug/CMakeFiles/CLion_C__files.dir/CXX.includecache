@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion/CLion-C++files/main.cpp
+iostream
+-
+string
+-
+ctime
+-
+dshow.h
+-
+algorithm
+-
+vector
+-
+iomanip
+-
+fstream
+-
+set
+-
+chrono
+-
+iostream
+-
+Windows.h
+-
+

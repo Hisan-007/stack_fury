@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CLion_C__files" targetName="CLion_C__files" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f9e2907-e8e5-4f71-8143-0135512af1ca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1QdP1ad0Cp8ZIGFV6Z51PW6RcD1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Clion\CLion-C++files" />
+      <recent name="F:\Clion\CLion-C++files\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CLion_C__files" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion_C__files" TARGET_NAME="CLion_C__files" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLion_C__files" RUN_TARGET_NAME="CLion_C__files">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f9e2907-e8e5-4f71-8143-0135512af1ca" name="Default Changelist" comment="" />
+      <created>1568097392972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568097392972</updated>
+      <workItem from="1568097457090" duration="5447000" />
+      <workItem from="1568121307843" duration="4118000" />
+      <workItem from="1568220883770" duration="2470000" />
+      <workItem from="1568310126531" duration="3044000" />
+      <workItem from="1568350016418" duration="2136000" />
+      <workItem from="1568366424166" duration="5412000" />
+      <workItem from="1568568345800" duration="2813000" />
+      <workItem from="1568971071014" duration="5953000" />
+      <workItem from="1569264720200" duration="699000" />
+      <workItem from="1569576667270" duration="2906000" />
+      <workItem from="1569608452944" duration="1099000" />
+      <workItem from="1570020297322" duration="19567000" />
+      <workItem from="1570078033343" duration="3712000" />
+      <workItem from="1570106176820" duration="11264000" />
+      <workItem from="1570180327619" duration="5656000" />
+      <workItem from="1571389897134" duration="5605000" />
+      <workItem from="1571995050411" duration="5727000" />
+      <workItem from="1572762806848" duration="103000" />
+      <workItem from="1573205768357" duration="2288000" />
+      <workItem from="1574219084985" duration="92000" />
+      <workItem from="1575814671592" duration="598000" />
+      <workItem from="1575900503896" duration="11786000" />
+      <workItem from="1575983744518" duration="3615000" />
+      <workItem from="1576089659976" duration="610000" />
+      <workItem from="1576174006865" duration="6276000" />
+      <workItem from="1576510586617" duration="12061000" />
+      <workItem from="1576554585959" duration="3214000" />
+      <workItem from="1576587837817" duration="16336000" />
+      <workItem from="1576674999463" duration="6547000" />
+      <workItem from="1577017118565" duration="82000" />
+      <workItem from="1577036143421" duration="5757000" />
+      <workItem from="1577111085226" duration="2082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
